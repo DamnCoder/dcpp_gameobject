@@ -4,3 +4,9 @@
 [submodule "externals"]
 	path = externals
 	url = https://github.com/DamnCoder/dcpp_math
+[submodule "utilities/NewClassProject"]
+	path = utilities/NewClassProject
+	url = https://github.com/DamnCoder/NewClassProject
+[submodule "utilities/CMakeConfigure"]
+	path = utilities/CMakeConfigure
+	url = https://github.com/DamnCoder/CMakeConfigure
