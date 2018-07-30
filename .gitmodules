@@ -1,0 +1,3 @@
+[submodule "externals/dcpp_math"]
+	path = externals/dcpp_math
+	url = https://github.com/DamnCoder/dcpp_math
